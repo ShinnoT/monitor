@@ -61,3 +61,7 @@ python src/main.py
 ## License
 
 This project is licensed under the terms of the MIT license.
+
+---
+
+<p align="center">Made with ❤️ by Shinno Taguchi</p>
