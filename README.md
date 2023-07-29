@@ -55,6 +55,7 @@ Git clone the repository and run the `main.py` file in `/src` directory after in
 git clone https://github.com/ShinnoT/monitor.git
 cd monitor
 pip install
+python src/main.py
 ```
 
 ## License
